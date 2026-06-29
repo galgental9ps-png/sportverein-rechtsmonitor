@@ -1,0 +1,10 @@
+{
+  "name": "sportverein-rechtsmonitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-news.mjs",
+    "validate": "node scripts/update-news.mjs && node -e \"JSON.parse(require('fs').readFileSync('data/news.json','utf8')); console.log('JSON ok')\""
+  }
+}

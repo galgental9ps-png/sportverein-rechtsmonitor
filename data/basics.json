@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-06-29T00:00:00.000Z",
+  "items": [
+    {
+      "id": "basis-gemeinnuetzigkeit-ao-52",
+      "type": "Basisregel",
+      "title": "Gemeinnütziger Sportverein: Satzungszweck und tatsächliche Geschäftsführung müssen zusammenpassen",
+      "summary": "Für die Gemeinnützigkeit ist nicht nur die Satzung wichtig. Der Verein muss seine steuerbegünstigten Zwecke auch tatsächlich, selbstlos, ausschließlich und unmittelbar verfolgen. Für die Geschäftsführung bedeutet das: Beschlüsse, Mittelverwendung, Tätigkeitsberichte und Abgrenzung der Bereiche sauber dokumentieren.",
+      "relevance": "Grundlage für Steuerbegünstigungen, Spendenfähigkeit und Risikoanalyse bei Veranstaltungen, Sponsoring und Vergütungen.",
+      "action": "Satzung, Freistellungsbescheid, Tätigkeitsbericht, Einnahmebereiche und Mittelverwendung jährlich mit Steuerkanzlei prüfen.",
+      "impact": "hoch",
+      "categories": ["Gemeinnützigkeit & AO", "Steuerrecht allgemein"],
+      "sourceName": "Gesetze im Internet · AO § 52",
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__52.html",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "id": "basis-selbstlosigkeit-ao-55",
+      "type": "Basisregel",
+      "title": "Selbstlosigkeit: Mittel des Vereins dürfen nicht beliebig verwendet werden",
+      "summary": "Gemeinnützige Mittel müssen grundsätzlich für die satzungsmäßigen Zwecke verwendet werden. Unangemessene Vergütungen, private Vorteile oder nicht dokumentierte Zahlungen können die Gemeinnützigkeit gefährden.",
+      "relevance": "Besonders wichtig bei Vorstandsvergütung, Trainervergütung, Aufwandsersatz, Reisen, Vereinsfeiern und Darlehen.",
+      "action": "Vergütungen und Erstattungen nur mit klarer Grundlage, Beschluss, Beleg und satzungsrechtlicher Zulässigkeit auszahlen.",
+      "impact": "hoch",
+      "categories": ["Gemeinnützigkeit & AO", "Vereinsrecht & Compliance"],
+      "sourceName": "Gesetze im Internet · AO § 55",
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__55.html",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "id": "basis-uebungsleiter-ehrenamt-estg-3",
+      "type": "Basisregel",
+      "title": "Übungsleiter- und Ehrenamtspauschale: Tätigkeitsart und Nebenberuflichkeit dokumentieren",
+      "summary": "Steuerfreie Einnahmen für bestimmte nebenberufliche Tätigkeiten hängen an genauen Voraussetzungen. Im Sportverein betrifft das typischerweise Trainer, Betreuer, Ausbilder und andere ehrenamtliche Funktionen. Entscheidend sind Tätigkeit, Auftraggeber, Nebenberuflichkeit und richtige Zuordnung.",
+      "relevance": "Fehler wirken sich auf Lohnsteuer, Sozialversicherung, Minijob-Grenzen und Gemeinnützigkeitsdokumentation aus.",
+      "action": "Für jede Person festhalten: Rolle, Vertrag/Beschluss, Tätigkeitsbereich, Zeitraum, Zahlungen, Pauschale und mögliche Kombination mit Minijob.",
+      "impact": "hoch",
+      "categories": ["Übungsleiter/Ehrenamt", "Minijob & Sozialversicherung", "Steuerrecht allgemein"],
+      "sourceName": "Gesetze im Internet · EStG § 3",
+      "url": "https://www.gesetze-im-internet.de/estg/__3.html",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "id": "basis-minijob-sozialversicherung",
+      "type": "Basisregel",
+      "title": "Minijobs im Verein: Entgeltgrenze, Meldungen und Rentenversicherungspflicht überwachen",
+      "summary": "Minijobs sind auch in gemeinnützigen Vereinen reguläre Beschäftigungen. Neben Entgeltgrenze und Meldungen sind Mindestlohn, Arbeitszeitaufzeichnungen und mögliche Kombinationen mit Übungsleiter-/Ehrenamtspauschalen zu beachten.",
+      "relevance": "Betroffen sind etwa Trainer, Platzwarte, Reinigung, Geschäftsstelle, Kassenkräfte, Helfer bei Veranstaltungen und geringfügig Beschäftigte.",
+      "action": "Für jede Person Minijobstatus, Stunden, Entgeltbestandteile, Pauschalen und Meldungen monatlich prüfen.",
+      "impact": "hoch",
+      "categories": ["Minijob & Sozialversicherung", "Personal & Arbeitsrecht", "Mindestlohn"],
+      "sourceName": "Minijob-Zentrale",
+      "url": "https://www.minijob-zentrale.de/",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "id": "basis-mindestlohn-arbeitszeit",
+      "type": "Basisregel",
+      "title": "Mindestlohn: bezahlte Tätigkeiten sauber von Ehrenamt und Selbstständigkeit abgrenzen",
+      "summary": "Wo ein Arbeitsverhältnis vorliegt, sind Mindestlohn, Arbeitszeit und Nachweispflichten zu beachten. Die Bezeichnung als Honorar, Ehrenamt oder Aufwandspauschale ersetzt nicht die rechtliche Einordnung.",
+      "relevance": "Sportvereine haben häufig Mischformen: Ehrenamt, Minijob, Honorartrainer, FSJ/BFD, Kursleiter und Beschäftigte in Geschäftsstelle oder Anlage.",
+      "action": "Bei jeder bezahlten Tätigkeit Status prüfen: Arbeitnehmer, Minijob, selbstständig oder Ehrenamt. Stunden und Zahlungen nachvollziehbar dokumentieren.",
+      "impact": "hoch",
+      "categories": ["Mindestlohn", "Personal & Arbeitsrecht", "Minijob & Sozialversicherung"],
+      "sourceName": "Gesetze im Internet · MiLoG",
+      "url": "https://www.gesetze-im-internet.de/milog/__1.html",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "id": "basis-umsatzsteuer-sponsoring",
+      "type": "Basisregel",
+      "title": "Umsatzsteuer: Sponsoring, Veranstaltungen, Kurse und Vermietung getrennt betrachten",
+      "summary": "Nicht jede Einnahme eines gemeinnützigen Sportvereins ist steuerlich gleich. Mitgliedsbeiträge, Spenden, Zweckbetrieb, Vermögensverwaltung und wirtschaftlicher Geschäftsbetrieb müssen getrennt betrachtet werden; für Leistungen kann Umsatzsteuer relevant sein.",
+      "relevance": "Besonders relevant bei Sponsoring, Bandenwerbung, Trikotwerbung, Vereinsfesten, Gastronomie, Kursangeboten, Vermietung und Ticketverkauf.",
+      "action": "Einnahmenkonten nach Bereichen strukturieren und vor neuen Sponsoring-/Veranstaltungsmodellen steuerlich prüfen lassen.",
+      "impact": "hoch",
+      "categories": ["Umsatzsteuer & E-Rechnung", "Steuerrecht allgemein", "Gemeinnützigkeit & AO"],
+      "sourceName": "Gesetze im Internet · UStG",
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "id": "basis-zuwendungsbestaetigungen",
+      "type": "Basisregel",
+      "title": "Zuwendungsbestätigungen: Spenden, Aufwandsspenden und Mitgliedsbeiträge richtig trennen",
+      "summary": "Gemeinnützige Vereine dürfen Zuwendungsbestätigungen nur ausstellen, wenn die gesetzlichen Voraussetzungen erfüllt sind. Aufwandsspenden und Sachspenden brauchen besonders saubere Dokumentation.",
+      "relevance": "Fehlerhafte Bestätigungen können Haftungsrisiken und Probleme mit dem Finanzamt auslösen.",
+      "action": "Vorlagen aktuell halten, Belege vollständig ablegen und bei Aufwandsspenden vorherigen Erstattungsanspruch schriftlich klären.",
+      "impact": "hoch",
+      "categories": ["Spenden & Zuwendungen", "Gemeinnützigkeit & AO", "Steuerrecht allgemein"],
+      "sourceName": "BMF · Steuern/Gemeinnützigkeit",
+      "url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/steuern.html",
+      "publishedAt": "2026-01-01"
+    },
+    {
+      "id": "basis-vorstand-bgb-26",
+      "type": "Basisregel",
+      "title": "Vorstand und Vertretung: Geschäftsführung muss Satzung, Register und Beschlüsse kennen",
+      "summary": "Der Vorstand vertritt den Verein nach den Regeln des BGB und der Satzung. Für Geschäftsführung und Verwaltung ist wichtig, wer wirksam unterschreiben darf und welche Beschlüsse nötig sind.",
+      "relevance": "Betrifft Arbeitsverträge, Honorarverträge, Mietverträge, Sponsoring, Bankvollmachten und Anmeldungen zum Vereinsregister.",
+      "action": "Aktuellen Registerauszug, Satzung, Geschäftsordnung und Zeichnungsberechtigungen zentral ablegen.",
+      "impact": "mittel",
+      "categories": ["Vereinsrecht & Compliance"],
+      "sourceName": "Gesetze im Internet · BGB § 26",
+      "url": "https://www.gesetze-im-internet.de/bgb/__26.html",
+      "publishedAt": "2026-01-01"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Bundesministerium der Finanzen (BMF)",
+    "type": "amtlich · Steuerrecht",
+    "home": "https://www.bundesfinanzministerium.de/",
+    "feeds": [
+      "https://www.bundesfinanzministerium.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed.xml"
+    ],
+    "pages": [
+      "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/steuern.html",
+      "https://www.bundesfinanzministerium.de/Web/DE/Service/Publikationen/publikationen.html"
+    ]
+  },
+  {
+    "name": "Bundesministerium für Arbeit und Soziales (BMAS)",
+    "type": "amtlich · Arbeitsrecht/Soziales",
+    "home": "https://www.bmas.de/",
+    "feeds": [
+      "https://www.bmas.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed.xml"
+    ],
+    "pages": [
+      "https://www.bmas.de/DE/Arbeit/Arbeitsrecht/arbeitsrecht.html",
+      "https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html"
+    ]
+  },
+  {
+    "name": "Minijob-Zentrale",
+    "type": "amtlich · Minijob",
+    "home": "https://www.minijob-zentrale.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.minijob-zentrale.de/DE/die-minijobs/gewerbliche-minijobs/gewerbliche-minijobs_node.html",
+      "https://www.minijob-zentrale.de/DE/meta/aktuelles/aktuelles_node.html"
+    ]
+  },
+  {
+    "name": "Gesetze im Internet / Aktualitätendienst",
+    "type": "amtlich · Bundesrecht",
+    "home": "https://www.gesetze-im-internet.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "https://www.gesetze-im-internet.de/ao_1977/",
+      "https://www.gesetze-im-internet.de/estg/",
+      "https://www.gesetze-im-internet.de/ustg_1980/"
+    ]
+  },
+  {
+    "name": "Bundesgesetzblatt / Recht.bund.de",
+    "type": "amtlich · Verkündung",
+    "home": "https://www.recht.bund.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.recht.bund.de/"
+    ]
+  },
+  {
+    "name": "Zoll · Finanzkontrolle Schwarzarbeit/Mindestlohn",
+    "type": "amtlich · Mindestlohn",
+    "home": "https://www.zoll.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.zoll.de/DE/Fachthemen/Arbeit/Mindestarbeitsbedingungen/Mindestlohn/mindestlohn_node.html",
+      "https://www.zoll.de/DE/Fachthemen/Arbeit/arbeit_node.html"
+    ]
+  },
+  {
+    "name": "Deutsche Rentenversicherung",
+    "type": "amtlich · Sozialversicherung",
+    "home": "https://www.deutsche-rentenversicherung.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/arbeitgeber-und-steuerberater_node.html"
+    ]
+  },
+  {
+    "name": "VBG · gesetzliche Unfallversicherung",
+    "type": "versicherung · Sport/Arbeitsschutz",
+    "home": "https://www.vbg.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.vbg.de/cms/branchen/sport"
+    ]
+  },
+  {
+    "name": "DOSB",
+    "type": "Sportverband · Vereinsmanagement",
+    "home": "https://www.dosb.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.dosb.de/",
+      "https://www.dosb.de/sonderseiten/news"
+    ]
+  },
+  {
+    "name": "BLSV · Bayerischer Landes-Sportverband",
+    "type": "Sportverband · Bayern",
+    "home": "https://www.blsv.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.blsv.de/",
+      "https://www.blsv.de/startseite/news/"
+    ]
+  },
+  {
+    "name": "Bundesbeauftragte für Datenschutz (BfDI)",
+    "type": "amtlich · Datenschutz/Compliance",
+    "home": "https://www.bfdi.bund.de/",
+    "feeds": [],
+    "pages": [
+      "https://www.bfdi.bund.de/DE/Service/Presse/Pressemitteilungen/pressemitteilungen_node.html"
+    ]
+  }
+]
