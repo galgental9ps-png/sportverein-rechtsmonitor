@@ -4,7 +4,7 @@ Web-App für die Geschäftsführung eines gemeinnützigen Sportvereins. Sie list
 
 ## Funktionen
 
-- Passwort-Gate: `Doris`
+- Passwort-Gate: `*****`
 - Kategorisierte Informationen: Gemeinnützigkeit/AO, Steuerrecht, Spenden, Umsatzsteuer/E-Rechnung, Übungsleiter/Ehrenamt, Minijob/Sozialversicherung, Personal/Arbeitsrecht, Mindestlohn, Arbeitsschutz, Vereinsrecht/Compliance
 - Quellenlinks pro Eintrag
 - Such- und Filterfunktion
